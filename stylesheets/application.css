@@ -3646,6 +3646,7 @@ tbody.collapse.in {
 
 .jumbotron {
   padding: 30px 0;
+  height: 100vh;
   margin-bottom: 0;
   color: white;
   background: #2e2f41 url(../images/bg-1.png) 0 0 no-repeat;
@@ -3737,6 +3738,7 @@ tbody.collapse.in {
 .jumbotron .btn-app-store .btn img {
   display: block;
   margin-left: auto;
+  background: transparent;
   margin-right: auto;
   width: 180px;
   height: auto;
